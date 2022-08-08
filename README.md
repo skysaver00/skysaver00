@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skysaver00&layout=compact&theme=gruvbox)  
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={skysaver00})](https://solved.ac/{skysaver00})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skysaver00)](https://solved.ac/skysaver00)

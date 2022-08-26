@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Laniakea's GitHub stats](https://github-readme-stats.vercel.app/api?username=skysaver00&show_icons=true&theme=gruvbox)  
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skysaver00&layout=compact&theme=gruvbox)  
+![Laniakea's GitHub stats](https://github-readme-stats.vercel.app/api?username=skysaver00&show_icons=true&theme=gotham)  
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skysaver00&layout=compact&theme=gotham)  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skysaver00)](https://solved.ac/skysaver00)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=skysaver00&theme=dark)
